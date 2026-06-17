@@ -4,4 +4,4 @@
 
 Здесь находится **информация** обо _мне_.
 
-Здесь ссылка на фото (images/photo_2023-07-08_22-.jpg)
+Здесь ссылка на фото [image blocked et cetera, et cetera] (images/photo_2023-07-08_22-.jpg)
